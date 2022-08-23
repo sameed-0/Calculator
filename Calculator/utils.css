@@ -1,0 +1,39 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;  
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.width-40{
+    width: 40px;
+    width: 147px;
+    font-size: 30px;
+    border-radius: 49px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.light-grey{
+    background-color: light-grey;
+}
